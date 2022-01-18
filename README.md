@@ -26,6 +26,12 @@ Performing a pseudo-academic literature review.
 
 *Add to this section.*
 
+### Resources of Interest
+
+* ["The concept of Decentralized Autonomous Organizations (DAOs) is very reflective (and I would dare say the same) of the principles and values that drive Cooperatives."](https://medium.com/@ledgerback/the-concept-of-decentralized-autonomous-organizations-daos-is-very-reflective-and-i-would-dare-eb2f50e816e2)
+* MEDIUM LINK: [True or not true DAO? — Resist the beginnings and consider the end](https://medium.com/@markus.buech/true-or-not-true-dao-resist-the-beginnings-and-consider-the-end-5ba20c9ccac)
+* MEDIUM LINK: [Decentralised Autonomous Co-Operative’s (DAC) and The Rise Of The New ‘Commons’](https://medium.com/coinmonks/decentralised-autonomous-co-operatives-dac-and-the-rise-of-the-new-commons-721f5e1a7d3)
+
 ### References and Citation Counts (Above Papers)
 
 **Tangibly understanding intangible complexities: Designing for distributed autonomous organizations**
