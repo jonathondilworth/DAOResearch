@@ -1,1 +1,101 @@
-# DAOResearch
+## Research on DAOs
+
+Performing a pseudo-academic literature review.  
+
+### Papers
+
+*The ones towards the end may be of less importance or relevance.*
+
+1. Tangibly understanding intangible complexities: Designing for distributed autonomous organizations
+2. Evaluating the software frameworks for developing Decentralized Autonomous Organizations
+3. Parallel Governance for Decentralized Autonomous Organizations enabled by Blockchain and Smart Contracts
+4. A Decentralized Autonomous Organization (DAO) of DAOs
+5. A Scalable Voting System: Validation of Holographic Consensus in DAOstack
+6. An Exploration of Governing via IT in Decentralized Autonomous Organizations
+7. Blockchain and Decentralised Autonomous Organisations (DAOs): the evolution of companies?
+8. Distributed Autonomous Organizations Modeling and Governance on the Perspective Wu-li Shi-li Ren-li Approach
+9. Foundations of Cryptoeconomic Systems
+10. BLOCKCHAIN TECHNOLOGY: IS IT A CHAOTIC, COMPLEX SYSTEM?
+11. Distributed Ledger Technology: State-of-the-Art and Current Challenges
+11. BLOCKCHAIN GRAMMARS - DESIGNING WITH DAOS
+12. Proof of Vote: A High-Performance Consensus Protocol Based on Vote Mechanism & Consortium Blockchain
+13. Cryptourbanomics: A Method to Boost Urban Sustainability with Blockchain Technology
+14. (BOOK) Blockchain and Applications
+
+### Findings of Interest
+
+*Add to this section.*
+
+### References and Citation Counts (Above Papers)
+
+**Tangibly understanding intangible complexities: Designing for distributed autonomous organizations**
+
+Nissen, B., Tallyn, E. and Symons, K., 2019.  
+Ubiquity: The Journal of Pervasive Media, 6(1), pp.47-63.
+
+Citation Count: 1
+
+[https://www.research.ed.ac.uk/en/publications/tangibly-understanding-intangible-complexities-designing-for-dist](https://www.research.ed.ac.uk/en/publications/tangibly-understanding-intangible-complexities-designing-for-dist)
+
+**Evaluating the software frameworks for developing Decentralized Autonomous Organizations**
+
+Valiente Blázquez, M.C., Hassan, S. and Pavón Mestras, J., 2020.
+
+Citation Count: 1
+
+[https://eprints.ucm.es/id/eprint/62240/](https://eprints.ucm.es/id/eprint/62240/)
+
+**Parallel Governance for Decentralized Autonomous Organizations enabled by Blockchain and Smart Contracts**
+
+Ding, W.W., Liang, X., Hou, J., Wang, G., Yuan, Y., Li, J. and Wang, F.Y., 2021, July.  
+In 2021 IEEE 1st International Conference on Digital Twins and Parallel Intelligence (DTPI) (pp. 1-4). IEEE.
+
+Citation Count: 0
+
+[https://ieeexplore.ieee.org/abstract/document/9540069](https://ieeexplore.ieee.org/abstract/document/9540069)
+
+**A Decentralized Autonomous Organization (DAO) of DAOs**
+
+Kaal, W.A., 2021. Available at SSRN 3799320.
+
+Citation Count: 0
+
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799320](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799320)
+
+**A Scalable Voting System: Validation of Holographic Consensus in DAOstack**
+
+Faqir-Rhazoui, Y., Arroyo Gallardo, J. and Hassan, S., 2020.
+
+Citation Count: 5
+
+[https://eprints.ucm.es/id/eprint/62303/](https://eprints.ucm.es/id/eprint/62303/)
+
+**An Exploration of Governing via IT in Decentralized Autonomous Organizations**
+
+Mini, T., Ellinger, E.W., Gregory, R.W. and Widjaja, T., 2021.
+
+Citation Count: 0
+
+[https://www.researchgate.net/profile/Tobias-Mini/publication/355483453_An_Exploration_of_Governing_via_IT_in_Decentralized_Autonomous_Organizations/links/61743294a767a03c149fcace/An-Exploration-of-Governing-via-IT-in-Decentralized-Autonomous-Organizations.pdf](https://www.researchgate.net/profile/Tobias-Mini/publication/355483453_An_Exploration_of_Governing_via_IT_in_Decentralized_Autonomous_Organizations/links/61743294a767a03c149fcace/An-Exploration-of-Governing-via-IT-in-Decentralized-Autonomous-Organizations.pdf)
+
+**Blockchain and Decentralised Autonomous Organisations (DAOs): the evolution of companies?**
+
+Sims, A., 2019.
+
+Citation Count: 11
+
+[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3524674)
+
+**Distributed Autonomous Organizations Modeling and Governance on the Perspective Wu-li Shi-li Ren-li Approach**
+
+Zhu Xiaowu, Zhang Xueqi. Distributed Autonomous Organizations Modeling and Governance on the Perspective Wu-li Shi-li Ren-li Approach[J]. Management Review, 2021, 33(5): 114-122
+
+Citation Count: 0
+
+(WARNING LINK IS NOT SECURE. HTTP)
+
+[http://journal05.magtech.org.cn/jweb_glpl/EN/abstract/abstract2012.shtml](http://journal05.magtech.org.cn/jweb_glpl/EN/abstract/abstract2012.shtml)
+
+-
+
+*I'll add the rest later.*
