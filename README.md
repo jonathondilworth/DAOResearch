@@ -2,6 +2,8 @@
 
 Performing a pseudo-academic literature review.  
 
+*note: annotated_papers updated as and when.*
+
 ### Papers
 
 *The ones towards the end may be of less importance or relevance.*
