@@ -2,8 +2,6 @@
 
 Performing a pseudo-academic literature review.  
 
-*note: annotated_papers updated as and when.*
-
 ### Papers
 
 *The ones towards the end may be of less importance or relevance.*
@@ -26,7 +24,30 @@ Performing a pseudo-academic literature review.
 
 ### Findings of Interest
 
-*Add to this section.*
+**Topics Covered (in some degree of detail)**
+
+*Some of the more sociological aspects are my own thoughts/potential (currently unformed) hypothesises regarding the collective behaviour of humans within DAOs of varying sizes and purposes. The DAO of DAOs paper was VERY informative.*
+
+* DAOs (in general)
+* DAO Applications
+* Maintaining Decentralisation
+* The Importance of Decentralisation
+* Encapsulation Within Legal Frameworks (Jurisdictions)
+* Path Dependencies (Conceptual Design Debt)
+* The Importance Of Appropriate Layer One Architecture
+* Supervisory Considerations (Community Audits)
+* Incentive Design
+* Poor Incentive Design
+* The Notion Of Duality Of Incentives
+* Voting Mechanisms
+* Reputation Staking
+* Merit Identifiers (NFTs VS Weighted Keys)
+* Game-Theoretic Model Design Considerations
+* Attack Vectors
+* Emergent Social Network Topologies Given DAO Purpose & Potential Effects / Implications On Voting In A Reputation Based System
+* Sociological Models (Behavioural Modelling & Further Attack Vectors)
+
+*Add a written up pseudo-literature review if there is time.*
 
 ### Resources of Interest
 
