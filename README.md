@@ -203,7 +203,7 @@ Worth taking note of, at least.
 
 <details>
 
-<summary><strong>Parallel Governance for Decentralized Autonomous Organizations enabled by Blockchain and Smart Contracts<strong></summary>
+<summary><strong>Parallel Governance for Decentralized Autonomous Organizations enabled by Blockchain and Smart Contracts</strong></summary>
 
 *Note: Either I require more time to digest this paper or perhaps I have misunderstood elements of it; but it seems to me to be somewhat premature in its approach to creating potential 'parallel governance' models. I see where it is coming from, but it may be the case that the complexities associated with feature selection during the simulation stage of their ACP method are too difficult to conceptualise currently (without making further progress on standards surrounding DAOs). I may, however, be completely wrong. But it is stated within their abstract proposes further research as a conclusion, so, make of that what you will.*
 
