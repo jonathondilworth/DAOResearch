@@ -4,10 +4,10 @@
 
 <details>
 
-<summary>**TODO**</summary>
+<summary><strong>TODO</strong></summary>
 
-* Make important (most appropriate notes) first.
-* Read papers nine through thirteen.
+* Make important (most appropriate) notes first.
+* Read remaining papers.
 * Make notes on all findings.
 * Reference sociological and anthropological papers.
 * Prepare notes and materials for Friday 22:00 UTC.
@@ -25,22 +25,27 @@
 * Initial deadline Friday afternoon UTC.  
 * Extended deadline for further research: Saturday evening UTC 6PM.
 
-[**Topics Covered Thus Far**](#topics)
+*[**Topics Covered Thus Far**](#topics)*
 
-[**Typed Notes (General) Thus Far**](#gnotes)
+*[**Typed Notes (General) Thus Far**](#gnotes)*
 
 ### Papers
 
 *The ones towards the end may be of less importance or relevance.*
 
-1. Tangibly understanding intangible complexities: Designing for distributed autonomous organizations -- *(read & annotated)*
-2. Evaluating the software frameworks for developing Decentralized Autonomous Organizations -- *(read & annotated)*
-3. Parallel Governance for Decentralized Autonomous Organizations enabled by Blockchain and Smart Contracts -- *(read & annotated)*
-4. A Decentralized Autonomous Organization (DAO) of DAOs -- *(read & annotated)*
-5. A Scalable Voting System: Validation of Holographic Consensus in DAOstack -- *(read & annotated)*
-6. An Exploration of Governing via IT in Decentralized Autonomous Organizations -- *(read)*
-7. Blockchain and Decentralised Autonomous Organisations (DAOs): the evolution of companies? -- *(read)*
-8. Distributed Autonomous Organizations Modeling and Governance on the Perspective Wu-li Shi-li Ren-li Approach -- *(read)*
+**Read or/and Annotated:**
+
+1. Tangibly understanding intangible complexities: Designing for distributed autonomous organizations
+2. Evaluating the software frameworks for developing Decentralized Autonomous Organizations
+3. Parallel Governance for Decentralized Autonomous Organizations enabled by Blockchain and Smart Contracts
+4. A Decentralized Autonomous Organization (DAO) of DAOs
+5. A Scalable Voting System: Validation of Holographic Consensus in DAOstack
+6. An Exploration of Governing via IT in Decentralized Autonomous Organizations
+7. Blockchain and Decentralised Autonomous Organisations (DAOs): the evolution of companies?
+8. Distributed Autonomous Organizations Modeling and Governance on the Perspective Wu-li Shi-li Ren-li Approach
+
+**Still To Read / Review**
+
 9. Foundations of Cryptoeconomic Systems
 10. BLOCKCHAIN TECHNOLOGY: IS IT A CHAOTIC, COMPLEX SYSTEM?
 11. Distributed Ledger Technology: State-of-the-Art and Current Challenges

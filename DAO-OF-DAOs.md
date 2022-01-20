@@ -50,15 +50,17 @@ Some great quotes to come, but I will play devils advocate.
 
 > "In other words, if the developer community does not receive the support it needs in developing decentralized infrastructure solutions, society at large suffers."
 
-Motivation for asking this question is based on instances of so-called ‘exit-scams’ where an exchange (or some organisation) such as Intersango[1] or Mt.Gox[2] has (through malicious intent or otherwise) lost all of, or part of their organisations ‘treasury’. It’s either been stolen (purposefully) or has been lost through incompetence. Furthermore, we’ve seen similar behaviour at a collective level within much larger organisations (during 2007 — 2008 financial crisis) — financial institutions, rating agencies, governments, insurance companies, etc.
+Motivation for asking this question is based on instances of so-called ‘exit-scams’ where an exchange (or some organisation) such as Intersango[1] or Mt.Gox[2] has (through malicious intent or otherwise) lost all of, or part of their organisations ‘treasury’. It’s either been stolen (purposefully) or has been lost through incompetence. Furthermore, we’ve seen similar behaviour at a collective level within much larger organisations (during 2007 — 2008 financial crisis) — financial institutions, rating agencies, governments, insurance companies, etc. How likely (or possible) is it for corruption to occur within a DAO?
 
-Currently, we’re operating in a fairly unregulated space. In addition, assuming we believe that "if the developer community does not receive the support it needs in developing decentralized infrastructure solutions, society at large suffers", it could be argued that a similar sentiment was echoed by Larry Summers when commenting on 'Has Finance Made the World Riskier?'[3], which I think is, at minimum, an interesting comparison to draw. He was essentially fighting agaisnt what he (and Alan Greenspan, amongst others) thought was over-reaching legislation.
+<hr />
 
-'Has Finance Made the World Riskier?' focuses on incentive structures, which happens to be a key component within any DAO. From the perspective of fiduciary responsibility, if ADAO provides tools for other (possibly nefarious DAOs, or DAOs who’s intent switches from being collectively invested to personally invested) DAOs and those DAOs fail, where does the accountability (or legal guilt) lay?
+**Thoughts, general notes:** Currently, we’re operating in a fairly unregulated space. In addition, assuming we believe that "if the developer community does not receive the support it needs in developing decentralized infrastructure solutions, society at large suffers", it could be argued that a similar sentiment was echoed by Larry Summers when commenting on 'Has Finance Made the World Riskier?'[3], which I think is, at minimum, an interesting comparison to draw. He was essentially fighting agaisnt what he (and others) thought was over-reaching legislation.
 
-An example:
+'Has Finance Made the World Riskier?' focuses on incentive structures, which happens to be a key component within any DAO. From the perspective of fiduciary responsibility, if an entity provides tools for another (possibly nefarious DAO, or DAOs that indends to switch from being collectively invested to personally invested) DAO and that DAO fails, where does the accountability (or legal guilt) lay?
 
-Let’s assume some DAO uses tooling provided by ADAO and implements reputation based staking that utilises NFT-Based Reputation Identifiers as a means of weighting each vote cast (as appose to other voting based mechanisms, such as one token one vote). Given the set of DAO members, would it possible for a subset of those members to ‘turn rogue’, sell their Reputation Identifiers to a third party and cause a catastrophic failure of the DAO?
+*An example (bear in mind, this is my first week really diving fairly deep & learning about these structures, perhaps I have misunderstood some technical details):*
+
+Let’s assume some DAO uses tooling provided by an entity and implements reputation based staking that utilises NFT-Based Reputation Identifiers as a means of weighting each vote cast (as appose to other voting based mechanisms, such as one token one vote). Given the set of DAO members, would it possible for a subset of those members to 'turn rogue', sell their Reputation Identifiers to a third party and cause a catastrophic failure of the DAO?
 
 Is this possible given the design constraints that have been currently considered?
 
