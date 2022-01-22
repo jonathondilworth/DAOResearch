@@ -13,7 +13,7 @@ These simply are the the constraints that a consensus protocol must satisfy for 
 
 ![./images/cons.jpg](./images/cons.jpg)
 
-Similarly, any immutable constraints or properties or architectural voting 'protocol' design **could** lead to issues where the DAO becomes too large and its members are no longer able to effevtively vote. This consideration can claim to be overlooked if a Holographic Consensus mechanism is used for voting.
+Similarly, any immutable constraints or properties or architectural voting 'protocol' design which is unable to filter irrelevant proposals for large communities **could** lead to issues where the DAO becomes too large and its members are no longer able to effectively vote. This consideration can claim to be overlooked if a Holographic Consensus mechanism is used for voting.
 
 *Unfortunately, I'm not going to be ablle to fully review all the papers I wanted to this week. I have a meeting an a meal later this evening.*
 
