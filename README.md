@@ -9,14 +9,15 @@
 * Make important (most appropriate) notes first.
 * Read remaining papers.
 * Make notes on all findings.
-* Reference sociological and anthropological papers.
-* Prepare notes and materials for Friday 22:00 UTC.
-* Try and distribute some materials before hand.
+* ~Reference sociological and anthropological papers.~
+* ~Prepare notes and materials for Friday 22:00 UTC.~
+* ~Try and distribute some materials beforehand.~
 * Scan in all annotated papers (there are more details within annotations).
 * Review resources of interest in more depth.
-* (OPTIONAL, not required by deadline) Prepare a pseudo-academic written literature review.
-* Note: oppurtunities for further research.
-* Prepare for meeting Saturday evening UTC 6PM.
+* Make note of opportunities for further research.
+* ~Prepare for meeting Saturday evening UTC 6PM.~
+
+OPTIONAL: Prepare a pseudo-academic written literature review.
 
 </details>
 

@@ -8,11 +8,11 @@ Good to reference to provide use cases to newcomers.
 
 > "Other networks are developing upgrades to blockchains that enhance smart contracting and associated DAO features."
 
-Although 'other networks' are not specified, anybody coming from the ETH platform will likely be concerned with the platforms long term viability. Information for more 'serious inidividuals' could be provided (as well as used for marketing materials) regarding the advantages of using an eUTxO chain for dApp development, or simply for dApp usage (gas fees, etc). Using this quote as a reference highlights the requirement to migrate from ETH.
+Although 'other networks' are not specified, anybody coming from the ETH platform will likely be concerned with the platforms long term viability. Information for more 'serious individuals could be provided (as well as used for marketing materials) regarding the advantages of using a eUTxO chain for dApp development, or simply for dApp usage (gas fees, etc). Using this quote as a reference highlights the requirement to migrate from ETH.
 
 See the following quote:
 
-> "The limitations of the Ethereum platform, such as transaction throughput and gas fees, are creating a need for next generation blockchain technology and smart contracts. DAOs help facilitate this evolution."
+> "The limitations of the Ethereum platform, such as transaction throughput and gas fees, are creating a need for next-generation blockchain technology and smart contracts. DAOs help facilitate this evolution."
 
 Welcome, ADAO, right?
 
@@ -54,13 +54,13 @@ Motivation for asking this question is based on instances of so-called ‘exit-s
 
 <hr />
 
-**Thoughts, general notes:** Currently, we’re operating in a fairly unregulated space. In addition, assuming we believe that "if the developer community does not receive the support it needs in developing decentralized infrastructure solutions, society at large suffers", it could be argued that a similar sentiment was echoed by Larry Summers when commenting on 'Has Finance Made the World Riskier?'[3], which I think is, at minimum, an interesting comparison to draw. He was essentially fighting agaisnt what he (and others) thought was over-reaching legislation.
+**Thoughts, general notes:** Currently, we’re operating in a fairly unregulated space. In addition, assuming we believe that "if the developer community does not receive the support it needs in developing decentralized infrastructure solutions, society at large suffers", it could be argued that a similar sentiment was echoed by Larry Summers when commenting on 'Has Finance Made the World Riskier?'[3], which I think is, at minimum, an interesting comparison to draw. He was essentially fighting against what he (and others) thought was over-reaching legislation.
 
-'Has Finance Made the World Riskier?' focuses on incentive structures, which happens to be a key component within any DAO. From the perspective of fiduciary responsibility, if an entity provides tools for another (possibly nefarious DAO, or DAOs that indends to switch from being collectively invested to personally invested) DAO and that DAO fails, where does the accountability (or legal guilt) lay?
+'Has Finance Made the World Riskier?' focuses on incentive structures, which happens to be a key component within any DAO. From the perspective of fiduciary responsibility, if an entity provides tools for another (possibly nefarious DAO, or DAOs that intends to switch from being collectively invested to personally invested) DAO and that DAO fails, where does the accountability (or legal guilt) lay?
 
 *An example (bear in mind, this is my first week really diving fairly deep & learning about these structures, perhaps I have misunderstood some technical details):*
 
-Let’s assume some DAO uses tooling provided by an entity and implements reputation based staking that utilises NFT-Based Reputation Identifiers as a means of weighting each vote cast (as appose to other voting based mechanisms, such as one token one vote). Given the set of DAO members, would it possible for a subset of those members to 'turn rogue', sell their Reputation Identifiers to a third party and cause a catastrophic failure of the DAO?
+Let’s assume some DAO uses tooling provided by an entity and implements reputation based staking that utilises NFT-Based Reputation Identifiers as a means of weighting each vote cast (as appose to other voting based mechanisms, such as one token one vote). Given the set of DAO members, would it be possible for a subset of those members to 'turn rogue', sell their Reputation Identifiers to a third party and cause a catastrophic failure of the DAO?
 
 Is this possible given the design constraints that have been currently considered?
 
@@ -79,8 +79,35 @@ However, this is a consideration that has certainly been made.
 > "Human nature and any effective machine derivatives of human engagements in institutional form require a duality of incentives in order to overcome attempts of rational and opportunistic internal and external constituents to game the governance design of a given DAO. The duality of incentives consists of a) incentives for actors to improve their own utility, while at the same time b) actors’ actions benefit the entirety of the institution and its constituents for the long run."
 
 * The notion of 'duality of incentives' is really interesting.
-* I consider (or interpret) this somewhat to translate to: Successful DAOs offer incentive structures which promote lifestyles of autonomy, self-mastery and collective purpose [4].
-* I think this is a great 'sell' to anyone considering to join.
+* I consider (or interpret) this somewhat to translate to Successful DAOs offer incentive structures that promote lifestyles of autonomy, self-mastery and collective purpose [4].
+* I think this is a great 'sell' to anyone considering joining.
+
+### Path Dependencies
+
+> The original DAO has a lasting impact on emerging DAO designs. It created core commonalities and associated path dependencies in future generations of DAOs. The core common denominator for all DAO token members is the unifying desire to optimise the DAO token value. Accordingly, performance assessment in the DAO structure is based on value optimisation, not on hierarchical or political processes. On the upside, token holders and contractors work towards a common goal of optimising the DAO and the token value and non-performance repetitional penalties are free from racial or cultural biases and associated implications as the token holders are unlikely to even know each other. Yet, the focus on the value enhancement of fungible tokens can lead to short-termism and may ignore ethical and governance issues.  
+
+*(I've called this conceptual debt)*
+
+> DAO developers are also subject to path dependencies that undermine the evolution of decentralised DAO designs. Organisational communication structures will invariably influence future designs. While groups of DAO developers certainly influence DAO designs with their collective assumptions about how their intended DAO users will engage with the DAO, the inherent structure and approach of a group of developers building a software solution typically has an even larger impact on DAO design. The collective reasoning process of DAO developers is based largely on their prior experiences with DAO software solutions, which form path dependencies.
+
+### Reputation Based System
+
+> Reputation-Based Internal Governance
+
+> The use of reputation staking and voting metrics in the DAO of DAO’s internal governance design has key advantages over other decentralised voting mechanisms. The DAO of DAOs’s use of reputation voting has two key advantages over other decentralised one-token-one-vote voting mechanisms:
+
+> 1) it is non-fungible which avoids corruptive elements, and  
+> 
+> 2) it optimally aligns incentives for DAO of DAOs members individually and at the same time aligns their incentives for the totality of the DAO of DAOs as an institution.
+
+> Because reputation is non-fungible, and ideally anonymous, it is much harder for DAO of DAOs members and external participants to try to game the system to improve their own utility exclusively while hurting the common good of the DAO of DAOs.  
+
+> The DAO of DAO’s non-fungible and fungible token governance design enables the incentivization of DAO of DAOs members with indirect economic gain. In the DAO of DAO’s bifurcated design with two disparate types of tokens, i.e., reputation tokens and reputation salary tokens, 1. the non-fungible reputation tokens give DAO of DAOs members voting rights, and 2. fungible reputation salary tokens allow DAO of DAOs members to earn a fungible salary in proportion to their non-fungible reputation tokens. DAO of DAOs members increase their non-fungible tokens by making valuable contributions to the DAO and participating consistently in DAO of DAOs voting pools. DAO of DAOs members get paid with a fungible algorithmic stable token that is pegged to a pool of fungible tokens/good/consumer price index. The salary payments in fungible stable tokens are in proportion to DAO of DAOs members’ respective non-fungible reputation token scores. The indirect economic effects remove corruptive elements and
+make the governance design more attack-resistant and stable in the long run.
+
+> Reputation as a valuation metric allows DAO of DAOs members to improve their own utility while at the same time improving the DAO of DAOs in the long term. Because reputation is used as a metric for indirect economic benefits, i.e., a salary in fungible tokens that is paid in proportion of the non-fungible reputation token score, DAO of DAOs reputation token holders are incentivised to increase their own reputation/utility by engaging in valuable conduct for the DAO. The more the aggregated individual reputation of all DAO of DAOs members increases, the more the overall DAO of DAOs value increases, and the more the DAO of DAOs creates value enhancing outcomes for its members.
+
+As far as I understand: The proposed bifurcated reputation-based system design  ("Reputation-Based Internal Governance"), allows the DAO to operate such that one may leverage 'pay-outs' of "fungible reputation salary tokens" against their (non-fungible) reputation tokens (gained through contributing).
 
 References:
 
