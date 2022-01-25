@@ -4,6 +4,10 @@
 
 *Performing a pseudo-academic literature review.*
 
+[See General Notes](./general-notes.md)
+
+^ Research Notes On A LOT of resources.
+
 <details>
 
 <summary><strong>TODO</strong></summary>
