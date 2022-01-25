@@ -109,6 +109,16 @@ make the governance design more attack-resistant and stable in the long run.
 
 As far as I understand: The proposed bifurcated reputation-based system design  ("Reputation-Based Internal Governance"), allows the DAO to operate such that one may leverage 'pay-outs' of "fungible reputation salary tokens" against their (non-fungible) reputation tokens (gained through contributing).
 
+> Suboptimal Incentive Design: The lack of decentralized governance solutions affects the application of decentralized systems on multiple levels. Decentralized networks depend on dynamic governance. As blockchains protocols evolve in a given market, they require updates. At the beginning of the 2020s, basic standards for the governance of digital assets were still missing. Efforts to provide more legal certainty through regulatory carve-outs were mostly tentative and lacked sufficient regulatory support or voting majorities in the regulatory agencies. The evolution of the digital asset market necessitates certainty for market participants. Without standards and governance, certainty and the associated market confidence cannot develop.
+
+More legal certainty in the context of the jurisdiction's legal framework? Is that even a design consideration when it comes to constrained optimisation? I suppose geographical location of any registered legal wrapper?
+
+**The Duality of Incentives**
+
+TLDR: A game-theoretic model that rewards the contribution of the individual by rewarding the collective, plus a weighted value directly to the contributor based on merit and in proportion to the value of the overall system.
+
+
+
 References:
 
 1. <https://bitcointalk.org/index.php?topic=63877.msg1445567#msg1445567> & <https://find-and-update.company-information.service.gov.uk/company/07683978>
