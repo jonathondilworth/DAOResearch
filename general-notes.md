@@ -14,6 +14,8 @@
 * [General Working Summary](#s)
 * [Resource List](#r)
 
+*TODO: Tidy Up, Make Less Informal.*
+
 <hr />
 
 <span id="n"></span>
