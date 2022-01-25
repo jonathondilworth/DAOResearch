@@ -30,21 +30,19 @@
 
 * This is why I thought it would be important to have DAOs that have social and technical interfaces thereby creating a network of DAOs that share an average (of similar scale) cardinality of the set of members.
 
-* If you can effectively interface between DAOs such that the number of members within each DAO is kept to an appropriate size, it would seem to me to be the case that the complexity of each item within the set of threat models can be significantly reduced.
+* If you can effectively interface between DAOs such that the number of members within each DAO is kept to an appropriate size, it would seem to me to be the case that the complexity of each item within the set of threat models can be significantly reduced. *(Possibly? again I am no authority within this space, at all).*
 
 > Quote on purchasing governance:  
 
 > "You think all segments of American society have equal and fair access to the system? You can walk into any hearing room you like, yes. One can walk into any hearing room, one can not necessarily write the kind of lobbying cheques that your industry writes, or engage in the level of political contributions that your industry engages in."
 
-* PartyDAO: Bid against whales, probably want to fractionalize the NFT. Again, this raises concerns for me. We're in a fairly unregulated space and money laundering does occur, washing NFTs to hyperinflate their value DOES OCCUR, all kinds of shady **** could go on with something like this.
-
-* An example: consider putting 10k USD into the creation of an NFT + a marketing campaign. You trade that NFT between a number of parties and inflate its value to 100k USD. You anticipate (or somehow encourage through a social trojan horse) that some partyDAO goes and bids against you on your own NFT. Is it not obviously apparent that so many conflicts of interest could be occurring within this space?!
+* PartyDAO: Bid against whales, probably want to fractionalize the NFT. Again, this raises concerns for me. We're in a fairly unregulated space and money laundering does occur, washing NFTs to hyperinflate their value DOES OCCUR, all kinds of shady stuff could go on with something like this *(my humble opinion)*.
 
 <hr />
 
 #### COOPER TURLEY of Seed Club, on Valuing Social Tokens
 
-* Social Tokens: Token Gating (Fungible or NFTs, ERC-20 or ERC-721), offers access to a private community (devil's advocate: the proliferation of echo-chamber like behaviour? A foolish consistency is the hobgoblin of little minds. This is why I don't go on Facebook very much because I know machine learning algorithms are going to just show me what I want to see. Similarly, if you're in an organisation where everyone shares similar values, you're simply reinforcing your potentially questionable values; like attracts like, and although this would seem to me to be a 'fun' idea, what effects could this have at a societal level? The emergence of cult-like behaviour, maybe?
+* Social Tokens: Token Gating (Fungible or NFTs, ERC-20 or ERC-721), offers access to a private community.
 
 * Creator Tokens evolve into Community Tokens, sometimes, apparently.
 
@@ -58,7 +56,7 @@
 
 * "Maybe it doesn't make sense to have one threshold for everything, maybe it makes sense to segment that out."
 
-* I am not too sure whether this is laughable or not. The community decides on the various 'access levels' for members, essentially creating a hierarchy within the DAO, where you're essentially creating a divide, a sense of status and potentially a large degree of variance in 'wealth' distribution, where wealth is a function of whatever that community considers to be valuable. Consider the legacy system that exists today. We nominate candidates (somewhat similar to access levels), then vote on who gets into power (a natural threshold), whilst it is not clear how the degree of power is distributed, I would assume that the higher 'access levels' have a larger degree of governance. Thus, replicating the governance system that already exists. Sure, use the legacy system for your social club, cool, but we're not getting much closer to making a positive shift in the world, in fact, we're encouraging the requirement for continued effort insofar as social mobility is concerned. By recreating what we already use (social protocols which can be considered as legacy) and utilising them for the purposes of something less serious than governance of people still re-inforces the values of legacy systems. I have no problem with this personally, but I would be somewhat worried insofar as 'herd mentality' is concerned.
+* The community decides on the various 'access levels' for members, essentially creating a hierarchy within the DAO, where you're essentially creating a divide, a sense of status and potentially a large degree of variance in 'wealth' distribution, where wealth is a function of whatever that community considers to be valuable.
 
 * Insofar as voting is not required for everything & allowing small working groups to contribute without going through the voting process, consider the following:
 
@@ -103,9 +101,9 @@
 
 * Copper T - Pleasure DAO - Friends with Benefits - Fire Ice DAO - Mapping out the current DAO landscape - Crypto + Music Industry.
 
-* Copper T - Music Industry Guy, DJing (HIGHLY SPECULATIVE & premature judge of character: good to know, I know a lot of DJs and Artists, producers have a serious gripe with the music industry and how unfair it can be in terms of remuneration, DJs GENERALLY, from my experience, tend to carry somewhat of an ego, I can understand why as I have played out myself on multiple occasions and it does come with this element of 'everybody wants to be your friend' and 'everybody wants you to go to an afterparty' - etc), speaker got into crypto to make a name for himself and to start building the creator economy.
+* Copper T - Music Industry Guy, DJing, etc.
 
-* Marketing, Strategy, Business Development, Point People In The Right Direction, 'Get Shit Done'.
+* Marketing, Strategy, Business Development, Point People In The Right Direction.
 
 * Information on the music industry, smart contracts to cut out middle guys, DAOs make sense.
 
@@ -117,17 +115,13 @@
 
 * How do you find the time to manage everything? Lot's of FO-MO in crypto, how do you manage your time: living life, crypto and being a human.
 
-*Authors note: I am literally wearing a T-Shirt that says FO-MO and provides a definition (in case anyone would like one, DM me, I'll send you one). Time management if done most effectively (in my opinion) by maintaining a regular routine or schedule (although difficult when working in different time zones). Replacing cooking meals with meal replacement (I consume one 'physical' meal per day and two replacement HUEL meals per day). I try my best to get at least six hours of sleep, preferably eight; and I put one day per week to one side for social interaction outside of libraries, my home office and my actual office.*
-
-*Authors note, OFF-TOPIC: somewhat depressing when I hear people say I got into this during 2017/2018. I was born just a little too late, literally witnessing BTC moving from 3 USD to 7 USD in the space of two days, but being so young that 100 USD was a lot of money to me (14-ish years old?)*
-
 * Paraphrased: 'DAOs contain members, members have roles. Operators - community manager on steroids.'
 
 > Quote of note:  
 
 > "There are so many people across so many working groups across any given DAO that it can be difficult to know what everyone else is working on, so having one given person who acts as the touch-point to really organise everything and keep everyone in check is probably one of the most valuable roles that a DAO has to offer today."
 
-*Authors note: Look, I am no authority in this space, I've been here for the best part of a couple of weeks. Nevertheless, it would seem to me to be the case that perhaps the lack in the use of tooling or education on such tooling is a problem for the speaker. The aforementioned tools are used by technical individuals all the time: Slack, GitHub, Trello, Jira, Other Atlassian products, shared CalDAV for shared calendars, the list GOES ON). More importantly, this is a problem that can be solved without having to delegate too much control to one 'community manager on steroids' (creating an element of centralisation). At the end of the day, yes it's a consideration for the DAO, how decentralised do they want to be? From an ethical, moral and technical perspective, the answer is quite clear, as decentralised as possible. A practical example: Consider the 'bus factor' - if Joe is responsible for being the community manager on steroids, but tragically gets hit by a bus during either DAO development or simply during DAO maintenance, your organisation has a fairly serious problem. Furthermore, people experience the world as a function of phenomenal consciousness; and with it comes emotions and biases. Through the elimination of those elements by implementing code and effective tooling, you reduce the 'bus factor' to (effectively) zero. Finally, your uptime should then be tending towards 100%.*
+*Authors note (opinion): Look, I am no authority in this space, I've been here for the best part of a couple of weeks. Nevertheless, it would seem to me to be the case that perhaps the lack in the use of tooling or education on such tooling is a problem for the speaker. The aforementioned tools are used by technical individuals all the time: Slack, GitHub, Trello, Jira, Other Atlassian products, shared CalDAV for shared calendars, the list GOES ON). More importantly, this is a problem that can be solved without having to delegate too much control to one 'community manager on steroids' (creating an element of centralisation). At the end of the day, yes it's a consideration for the DAO, how decentralised do they want to be? From an ethical, moral and technical perspective, the answer is quite clear, as decentralised as possible. A practical example: Consider the 'bus factor' - if Joe is responsible for being the community manager on steroids, but tragically gets hit by a bus during either DAO development or simply during DAO maintenance, your organisation has a fairly serious problem. Furthermore, people experience the world as a function of phenomenal consciousness; and with it comes emotions and biases. Through the elimination of those elements by implementing code and effective tooling, you reduce the 'bus factor' to (effectively) zero. Finally, your uptime should then be tending towards 100%.*
 
 <hr />
 
@@ -138,20 +132,6 @@
 > "It’s bad for intermediaries, and good for everyone else."
 
 If we can get it right, I'm hopeful. But these are radically new concepts and it would seem to be the case that there is a lot of work to do moving forwards.
-
-<details>
-
-<summary>Quote on Vision vs Work</summary>
-
-> **Chris Anderson:** So you spoke to me last week about these two guys. Who are they and how do you relate to them?  
-
-> **Linus Torvalds:** Well, so this is kind of cliché in technology, the whole Tesla versus Edison, where Tesla is seen as the visionary scientist and crazy idea man. And people love Tesla. I mean, there are people who name their companies after him.   
-
-> The other person there is Edison, who is actually often vilified for being kind of pedestrian and is — I mean, his most famous quote is, "Genius is one percent inspiration and 99 percent perspiration." And I'm in the Edison camp, even if people don't always like him. Because if you actually compare the two, Tesla has kind of this mind grab these days, but who actually changed the world? Edison may not have been a nice person, he did a lot of things — he was maybe not so intellectual, not so visionary. But I think I'm more of an Edison than a Tesla.
-
-Seemed kind of relevant. I do believe vision is important, but ultimately it comes down to getting stuff done.
-
-</details>
 
 An example of a voting network topology (A splice of Vote Delegation Data from the recent GitcoinDAO launch, each node is a voter, each edge is a delegation transaction):
 
@@ -212,6 +192,10 @@ In my humble opinion, instead of measuring 'strength of membership' through toke
 
 <hr />
 
+<details>
+
+<summary>General Thoughts</summary>
+
 #### Potential Areas Of Interest (Research)
 
 *Potential hypothesises / titles.*
@@ -220,8 +204,6 @@ In my humble opinion, instead of measuring 'strength of membership' through toke
 * *TODO: Add More - To Be Discussed.*
 
 <hr />
-
-#### General Thoughts
 
 *These are very general thoughts. Although I have written them in a somewhat academic manner (albeit, the sentences are too long and could be radically improved upon, it's not like I'm trying to get any of this published), they're very much open to peer-review.*
 
@@ -233,15 +215,12 @@ The ability to purchase voting power as a non-linear function of governance toke
 
 *note: \oplus is just +, fed up of this img to TeX thing.*
 
-<details>
 
-<summary>LaTeX Mathematical Formula</summary>
+LaTeX Mathematical Formula
 
 $ f(x,\gamma) = \frac{1}{1+e^{-x}} $
 
 <small>$ f(x,\gamma) = \frac{1}{1+e^{-x} $</small>
-
-</details>
 
 ![./images/logisticfunc.jpeg](./images/logisticfunc.jpeg)
 
@@ -254,6 +233,8 @@ The general idea is: if you're disreputable, you have less voting power.
 **EDIT: Probably need to do some more reading on some of these voting mechanisms.**
 
 <hr />
+
+</details>
 
 <span id="r"></span>
 
