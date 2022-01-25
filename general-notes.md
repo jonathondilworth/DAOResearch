@@ -135,7 +135,7 @@
 
 #### General Notes Summary
 
-*Updated as we go along.*
+*Updated as we go along. EDIT: need to re-update.*
 
 * On-chain voting (MakerDAO)
 * Off-chain voting (MakerDAO)
@@ -193,6 +193,12 @@ In my humble opinion, instead of measuring 'strength of membership' through toke
 * [What Are DAOs?](https://open.spotify.com/episode/1Oco27LMCspwPgYpah7Azi?si=GNUMaEiyRGa5cdmOGaoiUQ&utm_source=copy-link)
 * [How to solve the apathy problem in DAOs](https://open.spotify.com/episode/6fFwHouWleD7j7Dlgun0tb?si=95eZL8BTT6CHK4gY12HdGA&context=spotify%3Ashow%3A09k4pnFm6WokaszuoeZ6yf)
 * [WHAT CO-OPS AND DAOS CAN LEARN FROM EACH OTHER](https://www.fwb.help/wip/what-co-ops-and-daos-can-learn-from-each-other)
+* [Requesting Compensation and Voting](https://docs.bisq.network/compensation.html)
+* [Restructuring DAOs For Fair Compensation Mechanisms, Reputation and Efficiency](https://opendefi.medium.com/restructuring-daos-for-fair-compensation-mechanisms-reputation-and-efficiency-9865a88e80c7)
+* [A Big Test for DAOs: Honing New Compensation and Contribution Practices](https://thedefiant.io/a-big-test-for-daos-honing-new-compensation-and-contribution-practices/)
+* [Experiment in the HAUS: A new Contributor Compensation Program](https://daohaus.substack.com/p/-experiment-in-the-haus-a-new-contributor)
+* [How to DAO 301: Contributor Rewards](https://creators.mirror.xyz/Le68ptgaqsBh1g6w8UqqVL2kIrA_Lqn37bELMO-W_-0)
+* [DAO Maker Compensation Plan](https://medium.com/daomaker/dao-maker-compensation-plan-b7a76a312c30)
 
 **Tweets:**
 
