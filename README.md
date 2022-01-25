@@ -1,5 +1,7 @@
 ## Research on DAOs
 
+*EDIT (24/01/22): Need to review all literature within library channel.*
+
 *Performing a pseudo-academic literature review.*
 
 <details>
