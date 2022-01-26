@@ -167,13 +167,101 @@ Source: <https://docs.google.com/presentation/d/1fLJvPOvibcCUpJ9ES44_cdoX5Hb7LpD
 
 Source: <https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o>
 
-*25th Jan, 7 PM, taking a break & context switching for a bit. Information overload.*
+<hr />
+
+#### Roles in community building
+
+*Borrowing from Simon Wardley's framework:*
+
+![./images/roles.png](./images/roles.png)
+
+Comparing these roles to a traditional set of business roles and OSS roles.
+
+**The Settlers (operates, focused on steady-state growth and maintenance)**
+
+*(Interpretation of the Author) Project Maintainers & Contributors - not just technical. Multiple skillsets are required.*
+
+> The settlers of a community maintain a community’s core basic functions and facilitates steady state organic growth.  This is also understood as the ‘community manager’.  
+
+> Settlers are responsible for variety of community operations from running community calls, moderating discord and telegram groups, engaging existing community stakeholders, onboarding new community members, working on documentation to anything that enables either existing community members.  
+
+> Settlers as the operational backbone of communities.  
+
+**The Explorers (experiments, focused on growing via leaps and bounds)**
+
+*(Interpretation of the Author) Research & Development - one should take heed to 'moving fast and breaking things' unless, of course, it's contained within one's own sandbox. Furthermore, one should place an expectation of responsibility on oneself when developing critical systems. Thus, it would appear to be of importance to remain vigilant and not to simply 'let this creature evolve'. Authors note: put it this way, if you were (and you are) responsible & should be held accountable for the effects of the systems you (we collectively) push out into the world: is it a good idea to just see how it goes? Perhaps a better approach would be extremely careful design considerations, reel in the excitement about the potential of these systems for a moment and seriously take into consideration the effect that they may have on other people if they're deployed in a production environment hastily - (authors opinion). Furthermore, the execution of adoption usually fails if 'leaps and bounds' are implemented. Whilst innovation can occur with a degree of acceleration (technology parses on technology, intelligence parses on intelligence, thus the speed changes - momentum), for the average individual, the rate at which innovation occurs isn't aligned to the rate at which adoption occurs. (again, authors opinion). In short, research and development, esp. research is extremely important within this domain, so long as the collective assumes an appropriate degree of moral obligation to their clients and assumes that they may very well be held accountable in a court of law in certain circumstances. Although this may not be likely, individuals developing these systems should assume these responsibilities as it is the right thing to do. My humble opinion.*
+
+[Information on the DAO Hack | The University of Edinburgh](https://youtu.be/7M89jAvQmUM)
+
+*Quoted from the original article:*
+
+> In a community, the explorers are the ones focused on experimenting with new opportunities for the community to grow in leaps and bounds.
+
+> The work of an explorer is focused on discovering as well as creating new opportunities for the community to grow as opposed to growing the existing community itself.
+
+> Explorers are the ones working on building up new community distribution channels such as a new community resources, content creation, fostering high value partnerships, relationship building, and conducting customer interviews to analyse greenfield market opportunities.
+
+> Explorers are experimenters and drive growth for a community.
+
+**The Town planners (strategizes, focused on optimizing efforts)**
+
+*(Interpretation of the Author) Business Analysts?*
+
+*Community Managers & Event Organisers. Likely responsible for onboarding and adopting methods to create a smooth experience for individuals who are joining insofar as making it easy to allow them to contribute.*
+
+> The town planners of a community are those that drives the strategy behind how a community should grow and where community building efforts are best allocated. A town planner’s role is understand and discover how to allocate community building efforts and resources to areas of greatest leverage.
+
+> 20% of your efforts will drive 80% of your results
+
+> Crafting the right community development strategy is a process of discovery and iteration. It is shaped and formed over time as a community increasing runs more experiments and are able to observe more feedback cycles around their initiatives around the settlers and explorers.
+
+Obviously some confusion between the desired interpretation and that of the author of this document.
 
 <hr />
+
+#### DAOs: Absording the internet
+
+> We’re still early when it comes to DAO infrastructure. DAOs have many of the same needs as corporations, but must often deal with greater complexities given their scale, fluidity, and technical stack. That necessitated the emergence of tooling for formation, communication, collaboration, payments, and more. DAOs have a handful of providers to select across these categories, but by and large, choice is limited. We should expect many new entrants to the space in years to come. 
+
+> DAOs have clear vulnerabilities that have yet to be fully addressed. The first DAO was famously hacked, with a bad-actor attempting to siphon off millions in Ethereum. While DAOs are safer today, they carry risks. Contributors often join pseudonymously, meaning reputation capital is not entirely on the line. Furthermore, without sufficient protections, some DAOs are still vulnerable to exploitation.
+
+This is pretty interesting & engaging stuff:
+
+> Beyond the potential for financial gains, DAOs may herald a societal shift with lasting implications. We are, after all, influenced by the organizations in which we operate. In his work, “A Society of Organizations”, sociologist Charles Perrow argued that organizations explain much of the way our world works. He introduced this theory, as follows:  
+> 
+> [U]nless you are an organizational theorist...your specialty will be treated as a dependent variable; organizations will be the independent variable that shapes political and economic behavior, the stratification system, religion, social psychological processes and history in general.
+
+...
+
+> Ownership
+
+> Rather than concentrating ownership into the hands of founders and investors, DAOs distribute ownership to a variety of stakeholders in an ecosystem, including contributors, users, strategic partners, vendors, and so forth.  
+
+> Essentially, DAOs are owned by the people who create value in them. This is a radical notion and one with real consequence; by expanding beyond the traditional notion of who should “own” an organization, DAOs empower a broad ecosystem to take action and create value on its behalf.
+
+> Organization
+
+> As referenced earlier, DAOs seek to be “autonomous.” Initially, this term referenced DAOs desire to act independently at the organizational level — free from interference from state or private sector actors. 
+
+> While this is true of some DAOs, arguably the more consequential form of autonomy occurs at the individual level. Constituents can join a DAO and choose to contribute in the manner they find most compelling. There may be guidelines, but by and large, stakeholders choose their own labor and self-organize. 
+
+> Again, this is significant. Traditionally, the relationship between individual contributor and overseeing entity is a subservient one — the worker acts in accordance to a company’s demands. That isn’t the case here. DAO “workers” join in where and when they believe they can add value and wish to do so. 
+
+> By taking this approach, DAOs create the conditions for emergent behavior. Complex systems are able to form in a manner that no individual or group could have coordinated top-down. 
+
+Some fairly basic fundamental properties of a DAO.
+
+*All the research I can do until tomorrow.*
+
+####
 
 <span id="s"></span>
 
 #### General Notes Summary
+
+<details>
+
+<summary>Require Updating</summary>
 
 *Updated as we go along. EDIT: need to re-update.*
 
@@ -191,6 +279,8 @@ Source: <https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o>
 * Reputation-based staking in democratic systems would appear to be a requirement. It's a metric that could be used to evaluate the reliability of delegates.
 
 In my humble opinion, instead of measuring 'strength of membership' through token holdings, 'it' should be measured through reputation and contribution (meritocracy).
+
+</details>
 
 <hr />
 
